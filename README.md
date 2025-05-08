@@ -1,4 +1,4 @@
-Hi 👋 My name is Kyenn Cage
+Hi 👋 My name is Kai Cage
 ===========================
 
 All Around Data Guy | Data Scientist | Data Analyst | Database Engineer
